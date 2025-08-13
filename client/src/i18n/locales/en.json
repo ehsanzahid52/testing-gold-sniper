@@ -1,0 +1,387 @@
+{
+  "nav": {
+    "home": "Home",
+    "features": "Features",
+    "performance": "Performance",
+    "pricing": "Pricing",
+    "support": "Support",
+    "signalsApp": "Signals App"
+  },
+  "common": {
+    "downloadFor": "Download for {{platform}}",
+    "downloadFree": "Download for Free",
+    "getStarted": "Get Started",
+    "learnMore": "Learn More",
+    "viewResults": "View Results",
+    "contactSupport": "Contact Support",
+    "faq": "FAQ",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "tradingSignals": "Trading Signals",
+    "goldTrading": "Gold Trading",
+    "xauusd": "XAUUSD",
+    "professionalTraders": "Professional Traders",
+    "getOnGooglePlay": "Get on Google Play",
+    "downloadOnAppStore": "Download on App Store",
+    "downloadForIphone": "Download for iPhone",
+    "downloadForAndroid": "Download for Android"
+  },
+  "hero": {
+    "title": "The #1 Gold Sniper",
+    "titleHighlight": "app in the world",
+    "subtitle": "We send strong Gold signals for you to copy trade. Join now to receive signal insights for XAUUSD trading.",
+    "stats": {
+      "accuracy": "93% Accuracy",
+      "users": "17K+ Users",
+      "coverage": "24/7 Coverage",
+      "delivery": "< 1s Delivery"
+    }
+  },
+  "features": {
+    "title": "Why we are the best signal choice?",
+    "subtitle": "We give real-time signals on a daily basis and always focus on the best options rather than overtrading the bad ones. Our free gold signals will allow you to earn in the most efficient and convenient ways possible.",
+    "cards": {
+      "xauusd": {
+        "title": "Only XAUUSD",
+        "description": "Focused exclusively on gold trading for maximum expertise and precision."
+      },
+      "members": {
+        "title": "17,000+ Worldwide Members",
+        "description": "Join our global community of successful gold traders worldwide."
+      },
+      "best": {
+        "title": "Best in Industry",
+        "description": "Industry-leading accuracy and performance in gold signal delivery."
+      },
+      "daily": {
+        "title": "Daily Signals",
+        "description": "Consistent daily signals with real-time market analysis and insights."
+      }
+    }
+  },
+  "video": {
+    "title": "See GoldSniper in Action",
+    "subtitle": "Watch how professional traders use our mobile app to receive and execute high-precision gold trading signals.",
+    "description": "Experience the power of real-time gold trading signals"
+  },
+  "howItWorks": {
+    "title": "How do Gold Sniper Signals Work? 🥇",
+    "subtitle": "Our analysts scrutinize every component to guarantee that you have a simple-to-use gold signals system for a high-quality trading experience. If you follow our live trading ideas, you can quickly duplicate our live trades on your trading account.",
+    "steps": {
+      "step1": "Our analyst identify a market opportunity that might result in a profitable trade",
+      "step2": "Following a risk analysis, they determine the TP and SL that will maximize profit while ensuring that any losses are minimized",
+      "step3": "The signal is confirmed and immediately delivered to your phone",
+      "step4": "You execute the trade on your brokerage account, keeping the TP and SL in mind!",
+      "step5": "Rest without being anxious about the trade, grab a drink, and wait for the next one! Check your bank account, see how much money you've made and feel good! 💰"
+    }
+  },
+  "howToRead": {
+    "title": "How to Read Gold Sniper's Gold Signals 🥇",
+    "subtitle": "In our Gold signals terminal, you will find the following information:",
+    "status": {
+      "title": "Status",
+      "description": "The signal's current status:",
+      "live": "Follow the alert and enter the market",
+      "closed": "Signal is no longer operational"
+    },
+    "action": {
+      "title": "Action",
+      "description": "Buy or Sell signals with current price",
+      "buy": "Gold buy signals",
+      "sell": "Gold sell signals"
+    },
+    "entryPrice": {
+      "title": "Entry Price",
+      "description": "Premium members get access to each trade signal's entry price"
+    },
+    "stopLoss": {
+      "title": "Stop Loss",
+      "description": "An automated departure point that safeguards your investment. This is the proposed price for exiting the transaction if it goes against our analysis."
+    },
+    "payAttention": {
+      "title": "Pay Attention! 🥇",
+      "subtitle": "There are 3 different ways for XAUUSD signals to get closed:",
+      "automaticallySl": "By reaching the stop loss level",
+      "automaticallyTp": "By reaching the take profit level",
+      "manually": "Our team closes the signal based on momentum and market factors"
+    }
+  },
+  "goldTradingEducation": {
+    "title": "What is Gold Trading According to Gold Sniper? 🥇",
+    "subtitle": "You should know that gold is a fossil and non-renewable precious metal. The reserves of open mines are drained year after year, resulting in consistent growth in the value of this asset over time.",
+    "safeHaven": {
+      "title": "Safe Haven Investment",
+      "description": "Gold is also a kind of safe haven for investment capital. Economic downturns always result in a large outflow of money from securities. Fearing disaster such as a result of the stock market crashing will have investors shifting cash to more dependable assets, one of which is gold."
+    },
+    "longTerm": {
+      "title": "Long-term Value Growth",
+      "description": "The yearly depreciation of fiat money, often known as inflation, can explain the continuous rise in gold prices. Gold's value always rises in the long run, regardless of the macroeconomic environment."
+    },
+    "successMetrics": {
+      "title": "Trading Success Metrics",
+      "subtitle": "A steady monthly income of 10-20% is a strong financial accomplishment for a gold trader. You will only need to intraday trade to attain such an outcome in gold trading.",
+      "monthlyIncome": "Monthly Income Target",
+      "timeframe": "Best Timeframe",
+      "tradingPair": "Primary Trading Pair"
+    }
+  },
+  "tradingTips": {
+    "title": "Our Top 7 Tips for Trading Gold Successfully 🥇",
+    "subtitle": "As you can see, following our gold currency signals is straightforward. When a signal appears on our signals app or you receive an alert on your phone, open a trade at the spot price and use the predetermined stop loss and take profit settings.",
+    "tips": {
+      "plan": {
+        "title": "Plan Your Trades",
+        "description": "Before starting a new position, make a plan for entering and exiting a trade. Stick to your strategy and resist the urge to modify it on the spur of the moment."
+      },
+      "riskManagement": {
+        "title": "Risk Management",
+        "description": "Never open positions with all your available capital. Use no more than 20-25% of them for all open positions and no more than 2% for each individual trade."
+      },
+      "cutLosses": {
+        "title": "Cut Losses Early",
+        "description": "Never aggravate a losing situation. Stop orders should be used to minimize potential losses on all active positions."
+      },
+      "followTrend": {
+        "title": "Follow the Trend",
+        "description": "Instead of going against the market, go with it. The market is always correct!"
+      },
+      "bigPicture": {
+        "title": "Big Picture Focus",
+        "description": "Take a look at the big picture. Even if you just trade for a short time, you should always keep an eye on the long-term trend."
+      },
+      "review": {
+        "title": "Review Your Trades",
+        "description": "Make it a habit to go through your trades. This way, you'll be able to keep track of your profits and losses, as well as discover any flaws."
+      },
+      "stopLoss": {
+        "title": "Use Stop Loss Orders",
+        "description": "Always protect your capital with stop loss orders. We occasionally provide notes with our signals, such as \"Raise the stop loss to breakeven if the price approaches our take profit.\""
+      }
+    }
+  },
+  "marketFactors": {
+    "title": "Factors That Impact Gold Prices 🥇",
+    "subtitle": "This is where Gold Sniper can help you know all the different factors affecting gold and find you the best trading opportunities.",
+    "supplyDemand": {
+      "title": "Supply and Demand",
+      "description": "According to volume per day data, jewelry manufacture accounts for half of worldwide demand. Another 40% is made up of investment accounts. When demand is high and supply is low, prices climb."
+    },
+    "volatility": {
+      "title": "Market Volatility",
+      "description": "Your charting software's real-time trading signals will react to market movements. When stocks are underperforming, investors turn to gold. When stock market expectations are bullish, gold trading levels decrease."
+    },
+    "geopolitics": {
+      "title": "Geopolitics",
+      "description": "A simple glance at gold's price history reveals that today's projections are influenced by geopolitical influences. Uncertainty in the financial markets will prompt firms to rush to gold, driving up prices."
+    }
+  },
+  "appInterface": {
+    "title": "Intuitive Trading Interface",
+    "subtitle": "Our app features a clean, professional interface designed for both beginners and experienced traders. Access all critical information at a glance with our streamlined dashboard.",
+    "features": [
+      "Live market data and price feeds",
+      "One-tap signal execution",
+      "Portfolio performance tracking",
+      "Risk management tools"
+    ],
+    "button": "Try Demo"
+  },
+  "premium": {
+    "title": "Go Premium 🥇",
+    "subtitle": "Our mobile app will not only provide live updates on gold signals for Premium users, but it will also provide you with these benefits.",
+    "benefits": [
+      "PREMIUM members get more gold signals, more trading opportunities, and more profits.",
+      "PREMIUM members can open several trades per day and receive analysis for each signal.",
+      "PREMIUM members can improve their market discernment by comparing their own analysis to ours.",
+      "Gold Sniper PREMIUM members earn twice as much when they exit the market."
+    ],
+    "expertTeam": {
+      "title": "Expert Team",
+      "description": "We are a team of experienced traders and analysts. We know all there is to know about financial markets as we have over ten years of expertise. We developed Gold Sniper because we know how difficult it can be to trade and remain calm. We are here to assist you in improving your approach and achieving amazing results on your accounts."
+    }
+  },
+  "performance": {
+    "title": "93% profitable signals with our daily XAUUSD signals",
+    "subtitle": "Our users rely on strong signal precision and fast execution to secure gains in the Gold market.",
+    "button": "Our Results",
+    "stats": {
+      "successRate": "Success Rate",
+      "activeUsers": "Active Users",
+      "marketCoverage": "Market Coverage",
+      "signalDelivery": "Signal Delivery"
+    },
+    "appPerformance": {
+      "title": "Proven App Performance 📈",
+      "subtitle": "Our mobile app delivers consistent results with real-time data processing and lightning-fast signal delivery. Join thousands of successful traders using our platform daily."
+    }
+  },
+  "comprehensiveGuide": {
+    "title": "Complete Guide to Gold Trading with GoldSniper 📚",
+    "subtitle": "Everything you need to know about trading gold successfully with our professional signals service.",
+    "sections": {
+      "realTime": {
+        "title": "Up-to-the-minute Gold Signals and Trading 🥇",
+        "content": "Gold signals are extremely time-sensitive, and you must act fast to secure the best pricing. Prices can fluctuate incredibly quickly, so if you receive a Gold signal notification, you should buy or sell straight away. As a result, if your Gold signals are directly linked to your phone, you will be able to execute trades fast. The ideal Gold trading app should include several features that enable you to access critical information, receive real-time alerts and watch the pros trade. Why wait when Gold Sniper combines all of this information in a single trade app, giving you all of the tools you need to become a successful Gold trader?"
+      },
+      "global": {
+        "title": "Understanding Global Gold Signals 🥇",
+        "content": "Gold trading hours are longer than those of practically any other market in the world, allowing you to trade at virtually any time. The FX market, which is used by brokers all around the world, is often available to professionals, amateur traders, and beginners from all over the world. Gold Sniper signals can help you stay updated about what is going on, no matter where you are. You can rely on Gold Sniper, the best gold signals app, to keep you trading consistently from practically anywhere. What's stopping you from annihilating the markets if your laptop is connected and internet is available?"
+      },
+      "specifics": {
+        "title": "Gold Trading Specifics 🥇",
+        "content": "When dealing with this precious metal on the OTC market, it is critical to remember that one standard lot equals 100 troy ounces. XAU Is a gold symbol in the gold market. Brokers provide traders the chance to profit from the pricing of this asset by transacting on the XAU/USD pair. The graph depicts the price of one ounce of metal in US dollars. Brokers need a minimum contract amount of 0.01 from the lot, which means that you must have 1,550 USD to begin trading gold (including commissions). The greatest degree of leverage available to inexperienced traders is on average 1:1000; nevertheless, dealing with such a large volume of borrowed funds poses severe trading dangers. The ideal degree of leverage is 1:100. When using leverage, it is critical to pay close attention to the margin trading conditions. Some brokerages set the Stop Out (forced closing of a trade with a poor financial outcome) at 60-70 percent of the trader's deposit, while others put it at 20-30 percent. Furthermore, keep in mind the rules of money management in financial markets. The risk per transaction should not be more than 5-10%. To comply with these requirements, you should deposit at least $200 USD into a trading account."
+      },
+      "howGoldWorks": {
+        "title": "How Does Gold Work with Gold Sniper? 🥇",
+        "content": "In the gold market, gold is basically a currency. It is almost always traded against the US dollar under the symbol XAU/USD. As a result, your approach must monitor changes in the US dollar. A rise in the value of the US dollar might reduce the value of gold. So stay up to date on gold news websites for insights into forthcoming trends and analyses. When trading gold on the gold market, liquidity is very crucial. Gold has the highest average daily trading volume of any currency pair. You can use a variety of techniques and systems in your gold trading strategy such as gold scalping. All of them will need daily technical examination of price and volume charts."
+      },
+      "startTrading": {
+        "title": "How to Start Trading Gold with GoldSniper 🥇",
+        "content": "Even for individuals with little to no prior expertise or a little amount of money to invest, trading gold with Gold Sniper is the best choice. Some questions you may have: How will I know when a new signal is going to go into effect? Should I buy or sell, and how much should I pay? Our signaling service can answer all of these questions and more!"
+      },
+      "bestApps": {
+        "title": "Best Gold Currency Signals Apps to Use 🥇",
+        "content": "First and foremost, choose an app that is compatible with your current devices. If you use a variety of mobile devices, check for the best Gold signal applications to download for both iOS and Android. Because xauusd currency signals are provided in real time, you should act on them as soon as possible to optimize your chances of executing a winning trade. All of our tips are based on technical analysis of Gold charts as well as fundamental research of economic events and market news."
+      }
+    }
+  },
+  "downloadCta": {
+    "title": "Download the Gold Sniper mobile app now! 🥇",
+    "subtitle": "You can rely on Gold Sniper, the best gold signals app, to keep you trading consistently from practically anywhere. What's stopping you from annihilating the markets if your laptop is connected and internet is available?"
+  },
+  "safeTraders": {
+    "title": "We are safe & precise traders 💪",
+    "subtitle": "With 5+ years in forex & 1000+ XAUUSD trades per month, we ensure only the sharpest entries and alerts.",
+    "button": "Our Results"
+  },
+  "howItWorks": {
+    "title": "It's simple to get started 🚀",
+    "steps": {
+      "download": {
+        "title": "Download the app",
+        "description": "Get GoldSniper from your app store and create your account in seconds."
+      },
+      "join": {
+        "title": "Join our Telegram group",
+        "description": "Connect with our community of successful traders and get exclusive insights."
+      },
+      "copy": {
+        "title": "Start copying signals",
+        "description": "Follow our precise entry and exit points to maximize your trading profits."
+      }
+    },
+    "cta": "Join us today and start making 20% monthly. 💰"
+  },
+  "download": {
+    "title": "Download it for free 🆓",
+    "subtitle": "Get started with GoldSniper today. No hidden charges, no subscriptions. Just premium gold trading signals at your fingertips."
+  },
+  "guide": {
+    "title": "Complete Guide to Gold Trading with GoldSniper 📚",
+    "subtitle": "Everything you need to know about trading gold successfully with our professional signals service.",
+    "sections": {
+      "realTime": {
+        "title": "Up-to-the-minute Gold Signals and Trading 🥇",
+        "content": "Gold signals are extremely time-sensitive, and you must act fast to secure the best pricing. Prices can fluctuate incredibly quickly, so if you receive a Gold signal notification, you should buy or sell straight away. As a result, if your Gold signals are directly linked to your phone, you will be able to execute trades fast. The ideal Gold trading app should include several features that enable you to access critical information, receive real-time alerts and watch the pros trade. Why wait when Gold Sniper combines all of this information in a single trade app, giving you all of the tools you need to become a successful Gold trader?"
+      },
+      "global": {
+        "title": "Understanding Global Gold Signals 🥇",
+        "content": "Gold trading hours are longer than those of practically any other market in the world, allowing you to trade at virtually any time. The FX market, which is used by brokers all around the world, is often available to professionals, amateur traders, and beginners from all over the world. Gold Sniper signals can help you stay updated about what is going on, no matter where you are. You can rely on Gold Sniper, the best gold signals app, to keep you trading consistently from practically anywhere. What's stopping you from annihilating the markets if your laptop is connected and internet is available?"
+      }
+    }
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Everything you need to know about GoldSniper trading signals",
+    "questions": {
+      "whatIs": {
+        "q": "What is GoldSniper and how does it work?",
+        "a": "GoldSniper is a professional gold trading signals app that provides real-time XAUUSD trading alerts with 93% accuracy. Our expert analysts analyze market conditions and send you precise buy/sell signals directly to your mobile device."
+      },
+      "accuracy": {
+        "q": "How accurate are your gold trading signals?",
+        "a": "Our signals maintain a 93% success rate based on historical performance. Our team of experienced traders with 10+ years in the gold market carefully analyze every signal before delivery to ensure maximum profitability."
+      },
+      "free": {
+        "q": "Is GoldSniper free to use?",
+        "a": "Yes, GoldSniper offers free gold trading signals to help traders succeed in the XAUUSD market. Download our mobile app and start receiving professional trading alerts at no cost."
+      },
+      "platforms": {
+        "q": "What platforms is GoldSniper available on?",
+        "a": "GoldSniper is available on both iOS and Android platforms. You can download it from the App Store or Google Play Store and start receiving trading signals immediately."
+      },
+      "receive": {
+        "q": "How do I receive the trading signals?",
+        "a": "Once you download the GoldSniper app, you'll receive real-time push notifications with detailed trading signals including entry points, stop loss, and take profit levels for XAUUSD trades."
+      },
+      "experience": {
+        "q": "Do I need trading experience to use GoldSniper?",
+        "a": "No prior experience needed! Our signals come with clear instructions and our simple interface makes it easy for beginners to follow professional trading recommendations."
+      },
+      "timeframes": {
+        "q": "What timeframes do your signals cover?",
+        "a": "Our signals are optimized for various timeframes including scalping, day trading, and swing trading. Each signal specifies the recommended timeframe for maximum effectiveness."
+      },
+      "broker": {
+        "q": "Can I use these signals with any broker?",
+        "a": "Yes, our XAUUSD signals are universal and can be used with any forex broker that offers gold trading. The signals include standard entry/exit points that work across all platforms."
+      }
+    }
+  },
+  "footer": {
+    "description": "Professional gold trading signals with 93% accuracy. Download our mobile app and join thousands of successful traders worldwide.",
+    "sections": {
+      "appFeatures": "App Features",
+      "support": "Support"
+    },
+    "links": {
+      "realTimeSignals": "Real-Time Signals",
+      "marketAnalysis": "Market Analysis",
+      "performanceTracking": "Performance Tracking",
+      "communityAccess": "Community Access",
+      "helpCenter": "Help Center",
+      "userGuide": "User Guide"
+    },
+    "copyright": "© 2024 GoldSniper. All rights reserved.",
+    "disclaimer": "Trading involves risk. Past performance does not guarantee future results."
+  },
+  "finalCta": {
+    "title": "Ready to join? 🎯",
+    "getOnGooglePlay": "Get on Google Play",
+    "downloadOnAppStore": "Download on App Store"
+  },
+  "tradingInsights": {
+    "title": "Our trading insights",
+    "viewMore": "View more insights",
+    "cards": {
+      "smartDollar": {
+        "title": "Smart Dollar Entries",
+        "description": "Learn optimal entry points for XAUUSD trades based on USD strength analysis.",
+        "readTime": "5 min read"
+      },
+      "goldTrends": {
+        "title": "Gold Market Trends",
+        "description": "Understand current market patterns and upcoming opportunities in gold trading.",
+        "readTime": "8 min read"
+      },
+      "riskManagement": {
+        "title": "Risk Management",
+        "description": "Master the art of position sizing and stop-loss placement for consistent profits.",
+        "readTime": "6 min read"
+      }
+    }
+  },
+  "seo": {
+    "home": {
+      "title": "GoldSniper - The #1 Gold Trading Signals App 🔥",
+      "description": "Access the best GOLD signals for trading XAUUSD in the markets. 93% profitable trades with our premium gold trading signals app.",
+      "keywords": "gold trading signals, XAUUSD signals, gold trading app, free trading signals, gold price alerts, trading platform, forex signals, gold market analysis"
+    },
+    "signalsApp": {
+      "title": "GoldSniper App Features - Professional Gold Trading Signals",
+      "description": "Discover GoldSniper's advanced features for XAUUSD trading. Get 93% accurate signals, real-time alerts, expert analysis, and professional trading tools on mobile.",
+      "keywords": "goldsniper app features, XAUUSD trading app, gold signals mobile app, trading alerts, professional gold analysis, mobile trading platform"
+    }
+  }
+}
